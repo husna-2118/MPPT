@@ -1,1 +1,1 @@
-# Solar charge controller
+# MPPT Solar charge controller
